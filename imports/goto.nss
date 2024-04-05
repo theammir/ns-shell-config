@@ -1,4 +1,4 @@
-menu(type='*' where=window.is_taskbar||sel.count mode=mode.multiple title=title.go_to sep=sep.both image=\uE14A)
+menu(type='*' where=window.is_taskbar||sel.count mode=mode.multiple title=title.go_to sep=sep.both image=\uE173)
 {
 	item(title='Program Files' image=inherit cmd=sys.prog)
 	item(title='Program Files x86' image=inherit cmd=sys.prog32)

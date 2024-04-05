@@ -35,3 +35,7 @@ modify(mode=mode.multiple
 
 modify(find="Додати до списку медіапрогравача*" vis=hidden)
 modify(find="Відтворити за допомогою медіапрогравача*" vis=hidden)
+
+modify(find="Open with Code" vis=hidden)
+modify(find="Open Git GUI here" vis=hidden)
+modify(find="Open Git Bash here" vis=hidden)
